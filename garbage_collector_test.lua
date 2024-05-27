@@ -28,5 +28,3 @@ describe('GarbageCollectorReferencesTest - ', function()
         assert.is_true(memory_after < memory_before)        
     end)
 end)
-
-
