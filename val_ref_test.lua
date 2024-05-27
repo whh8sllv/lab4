@@ -29,4 +29,3 @@ describe('ReferenceTest - ', function()
         assert.is_true(primary_table.key == 'updated')
     end)
 end)
-
